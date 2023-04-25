@@ -1,4 +1,4 @@
-## This project is Sorting Algorithms  as student of ALX SE Programming.
+## This project is Sorting Algorithms  as student of ALX SE Programming School.
 
 #Authors
 <ul>
